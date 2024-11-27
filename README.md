@@ -1,4 +1,4 @@
-# transformer_apuntes
+h# transformer_apuntes
 transformer
 estudio y código sobre transformer.
 
@@ -13,8 +13,7 @@ mkii
 Cambiesillos Data
 dm s
 
-a prueba
-
+a pru
 hola
 
 
